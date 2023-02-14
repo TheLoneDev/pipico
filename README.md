@@ -25,3 +25,5 @@ We have a project in "/projects/traffic-light" and we want to output the .utf2 t
 `docker run -v /projects/traffic-light:/project -v /production/traffic-light:/build thelonedev/pipico`
 
 Replace `thelonedev/pipico` if you built it with a different name
+
+The sdk is installed at /pico-sdk
