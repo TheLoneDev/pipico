@@ -10,7 +10,7 @@ Or if it's too complicated or time consuming on their distro
 
 Just straight forward
 
-`docker build -t thelondev/pipico ./docker`
+`docker build -t thelonedev/pipico ./docker`
 
 ## Usage
 
