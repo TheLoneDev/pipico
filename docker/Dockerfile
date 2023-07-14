@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:23.04
 
 RUN apt update && \
 	apt install -y build-essential cmake gcc-arm-none-eabi libnewlib-arm-none-eabi libstdc++-arm-none-eabi-newlib \
